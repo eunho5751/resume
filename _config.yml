@@ -51,7 +51,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle-top
         title: 셀빅
         # link: https://cellbig.com
         # link_text: boringcompany.com
@@ -96,11 +96,11 @@ content:
             <br>
             <br>
             <font size="4"><b>유엔젤 키즐｜2022.12 ~ 2025.07</b></font>
-            *프로젝션 환경에서 손을 이용한 터치, 공 던지기와 같은 인터랙션을 통해 유아들에게 놀이 환경을 제공하는 실감형 콘텐츠로, 한 콘텐츠당 2~3주의 개발 기간으로 총 5종의 콘텐츠 개발*
+            *프로젝션 환경에서 손을 이용한 터치, 공 던지기와 같은 인터랙션을 통해 유아들에게 놀이 환경을 제공하는 실감형 콘텐츠로*
             - 프레임워크의 유지보수성을 높이기 위해 의존성 분리 등 구조 개선
             - 팀 내 공유를 위한 프레임워크 사용 매뉴얼 작성
             - 콘텐츠 5종의 전반적인 로직·인터랙션·연출 구현
-      - layout: left
+      - layout: middle-top
         title: 셀빅
         # link: https://cellbig.com
         # link_text: boringcompany.com
