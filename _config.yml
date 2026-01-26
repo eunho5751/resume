@@ -53,7 +53,7 @@ content:
     content:
       - layout: top-middle
         title: 셀빅
-        sub_title: 클라이언트 프로그래머
+        sub_title: 프로그램팀, 대리
         caption: 2022.12 ~ 2025.12
         description: | # this will include new lines to allow paragraphs
             <br>
@@ -103,7 +103,7 @@ content:
             - 팀 내 공유를 위한 프레임워크 사용 매뉴얼 작성
       - layout: top-middle
         title: 셀빅
-        sub_title: R&D 프로그래머
+        sub_title: R&D팀, 연구원
         caption: 2019.10 ~ 2022.04
         description: | # this will include new lines to allow paragraphs
             <br>
