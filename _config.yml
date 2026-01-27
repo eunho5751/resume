@@ -131,11 +131,6 @@ content:
   - title: Other Experience
     layout: list
     
-  - title: Skill
-    layout: text
-    content: |
-        <mark>C#</mark> <mark>C++</mark>
-    
   - title: Education
     layout: text
     content: |
