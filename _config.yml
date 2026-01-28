@@ -53,7 +53,7 @@ content:
     content: |
       - <b>Language</b> : C#, C++
       - <b>Engine</b> : Unity
-      - <b>Framework</b> / Library : OpenCV
+      - <b>Framework / Library</b> : OpenCV
       - <b>Tool</b> : Git, Redmine
 
   - title: Work Experience # Title for the section
