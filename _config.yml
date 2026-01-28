@@ -47,10 +47,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   자기소개
 
-  Skill.
-
-  C#, C++, Unity, OpenCV, Git, Redmine
-
 content:
   - title: Skill
     layout: text
