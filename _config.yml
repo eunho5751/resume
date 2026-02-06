@@ -51,10 +51,29 @@ content:
   - title: Skills
     layout: text
     content: |
-      - <b>Language</b> : C#, C++
-      - <b>Engine</b> : Unity
-      - <b>Framework / Library</b> : OpenCV
-      - <b>Tool</b> : Git, Redmine
+        ■ Languages : C#, C++
+        - Unity를 주로 다루다보니 C#에 대한 이해도가 높음
+        - 프로그래밍을 C++로 시작하여 언어에 대한 기본적인 이해와 Unity 플러그인 개발 경험
+        <br>
+        <br>
+        ■ Engine : Unity
+        - 엔진 기본 기능에 대한 이해 (Rigidbody, Animator, UGUI 등)
+        - UniTask & CancellationToken을 통한 비동기 처리
+        - DOTween을 통한 Easing 구현
+        - URP RenderGraph를 통한 RenderPass 구현
+        - HLSL을 통한 Vertex & Fragment Shader 작성
+        - Compute Shader를 통한 병렬 처리
+        - Addressables을 통한 리소스 관리
+        - ScriptableObject를 통한 데이터 관리
+        - Unity Editor 확장
+        - 네이티브 플러그인 연동 경험
+        <br>
+        <br>
+        ■ Tools : Git(SourceTree, Fork), Redmine, Notion
+        <br>
+        <br>
+        ■ Etc
+        - OpenCV를 통한 영상 처리​
 
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,7 +108,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             <br>
             <font size="4"><b>Unity 콘텐츠 개발에 필요한 핵심 기술 개발.</b></font>
-            - 카메라 연결 및 실시간 영상 스트림을 획득하기 위한 카메라 제어 시스템 개발 
+            - 카메라 연결 및 실시간 영상 스트림을 획득하기 위한 카메라 제어 시스템 개발
             - 프로젝션 환경에서의 실시간 인터랙션 시스템 개발
             - OpenCV를 활용하여 이미지 내 스케치된 그림을 검출하는 알고리즘 개발
             <br>
