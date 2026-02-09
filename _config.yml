@@ -205,6 +205,7 @@ career:
             - OpenCV를 활용하여 캐릭터 검출 알고리즘 구현
             - 캐릭터 데이터 생성을 위해 기존 C#에서 작성된 영상처리 알고리즘을 C++로 포팅하여 성능 개선
             - Windows / Android / iOS 플랫폼별 플러그인 빌드 환경 구축
+            
             <mark>C#</mark>, <mark>C++</mark>, <mark>Unity</mark>, <mark>OpenCV</mark>
             <br>
             <br>
