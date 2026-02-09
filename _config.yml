@@ -7,11 +7,7 @@ version: 2
 
 # Personal info
 name: 최은호
-title: |
-  게임 클라이언트 프로그래머
-
-
-  <font size="5"><b>이력서</b></font> 경력기술서
+title: 게임 클라이언트 프로그래머
 email: eunho5751@naver.com
 website: https://eunho5751.tistory.com
 
@@ -35,9 +31,9 @@ github_username:  eunho5751
 
 # Additional icon links
 additional_links:
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  - title: 이력서
+    icon: fa-address-card
+    url: https://eunho5751.github.io/resume/career/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
