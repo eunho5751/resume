@@ -95,6 +95,7 @@ content:
         sub_title: 프로그램팀, 대리
         caption: 2022.12 ~ 2025.12
         description: | # this will include new lines to allow paragraphs
+            <br>
             <font size="4.5"><b>Unity 콘텐츠 및 시스템 다수 개발.</b></font>
             - 실감형 콘텐츠, 포토부스, 포토카드 등 다양한 콘텐츠를 전담하여 아키텍처 설계 및 구현
             - 프린터, 카드리더기 등 콘텐츠 개발에 필요한 하드웨어 연동 및 기능 모듈화
@@ -225,6 +226,8 @@ career:
             - 카메라 연결 상태 모니터링 및 자동 재연결 기능 구현
 
             <mark>C#</mark> <mark>C++</mark> <mark>Unity</mark> <mark>OpenCV</mark>
+            <br>
+            <br>
 
 # Footer
 footer_show_references: false
