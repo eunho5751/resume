@@ -175,8 +175,8 @@ career:
             <font size="4"><b>[꿈이담키즈헬스케어센터] 관리자 툴｜2024.06 ~ 2024.08</b></font>
             *꿈이담키즈헬스케어센터에 납품된 콘텐츠들의 상태를 실시간으로 모니터링하고 고객들의 정보를 관리하는 소프트웨어 개발*
             - 모니터링 대시보드, 고객 관리 등 UI 기능 구현 (UGUI)
-            - 콘텐츠 상태 모니터링을 위한 웹소켓(Socket.IO) 기반 실시간 통신 구현
-            - 고객 데이터 관리를 위한 HTTP 기반 CRUD 구현
+            - 콘텐츠 상태 모니터링을 위한 WebSocket*(Socket.IO)* 기반 실시간 통신 구현
+            - 고객 데이터 관리를 위한 HTTP*(UnityWebRequest)* 기반 CRUD 구현
 
             <mark>C#</mark> <mark>Unity</mark>
             <br>
