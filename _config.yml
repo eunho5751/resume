@@ -70,16 +70,16 @@ content:
       <br>
       <font size="4"><b>　Engine : Unity</b></font>
       - 엔진 기본 기능에 대한 이해 (Rigidbody, Animator, UGUI 등)
+      - Unity Editor 확장 ( Inspector, Window Customization )
       - UniTask & CancellationToken을 통한 비동기 처리
       - DOTween을 통한 Easing 구현
       - URP RenderGraph를 통한 RenderPass 구현
-      - HLSL을 통한 Vertex & Fragment Shader 작성
+      - HLSL을 통한 Vertex, Fragment Shader 작성
       - Compute Shader를 통한 병렬 처리
       - Addressables을 통한 리소스 관리
       - ScriptableObject를 통한 데이터 관리
       - HTTP, WebSocket 통신 (UnityWebRequest, Socket.IO)
       - C++ 네이티브 플러그인 연동
-      - Unity Editor 확장
       <br>
       <br>
       <font size="4"><b>　Tools : Git (SourceTree/Fork), Redmine, Notion</b></font>
