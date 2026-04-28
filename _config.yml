@@ -131,9 +131,6 @@ content:
             - 카메라 제어를 위해 카메라 SDK를 활용한 C++ 플러그인 개발
             - 이미지 내 그림을 검출하여 2D 캐릭터화를 위한 영상처리 기반 메시·리깅·스키닝 데이터 생성 C++ 플러그인 개발
 
-  - title: Other Experience
-    layout: list
-
   - title: Education
     layout: text
     content: |
