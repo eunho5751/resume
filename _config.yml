@@ -46,7 +46,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+about_title: 자기소개
 about_profile_image: images/profile.jpg
 about_content: |
   <font size="5"><b>안녕하십니까? 클라이언트 개발자 최은호입니다.</b></font>
@@ -73,7 +73,7 @@ about_content: |
 
 
 content:
-  - title: Skill
+  - title: 보유기술
     layout: text
     content: |
       <font size="4"><b>　Languages : C#, C++</b></font>
@@ -100,7 +100,7 @@ content:
       <font size="4"><b>　Etc</b></font>
       - OpenCV를 통한 영상 처리​
 
-  - title: Work Experience # Title for the section
+  - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -144,7 +144,7 @@ content:
             - 카메라 제어를 위해 카메라 SDK를 활용한 C++ 플러그인 개발
             - 이미지 내 그림을 검출하여 2D 캐릭터화를 위한 영상처리 기반 메시·리깅·스키닝 데이터 생성 C++ 플러그인 개발
 
-  - title: Education
+  - title: 학력
     layout: text
     content: |
         2020.03 ~ 2022.02 광운대학교스마트융합대학원 스마트시스템학과(실감콘텐츠 전공)
